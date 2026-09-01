@@ -1,45 +1,125 @@
-
 # 🐍 Python Learning Journey
 
-Welcome to my **Python Learning Repository**! 🚀
+<div align="center">
 
-This repository documents my journey of learning Python — from the fundamentals to advanced concepts, problem-solving, and hands-on projects.
+### 🚀 Learning • Practicing • Building
 
----
-
-## 📚 Topics I'm Learning
-
-✨ Python Basics
-✨ Variables & Data Types
-✨ Operators
-✨ Conditional Statements
-✨ Loops
-✨ Functions
-✨ Strings
-✨ Lists
-✨ Tuples
-✨ Sets
-✨ Dictionaries
-✨ File Handling
-✨ Object-Oriented Programming
+</div>
 
 ---
 
-## 🎯 My Goal
+## 👋 About This Repository
 
-My goal is to build a strong foundation in Python and improve my **programming and problem-solving skills** through consistent practice.
+Welcome to my **Python Learning Journey**! 🐍✨
 
----
+This repository documents my journey of learning **Python**, starting from the fundamentals and gradually progressing towards advanced concepts, problem-solving, and real-world projects.
 
-## 💻 What's Inside?
-
-📂 Basic Programs
-🧩 Practice Problems
-🧠 Problem-Solving Exercises
-🚀 Mini Projects
+> 🌱 **Every expert was once a beginner. Keep learning, keep coding!**
 
 ---
 
-### 🌱 Learning one step at a time!
+## 📚 What I'm Learning
 
-**Happy Coding! 💻✨**
+<table>
+<tr>
+<td>
+
+### 🟢 Fundamentals
+
+* Variables
+* Data Types
+* Input & Output
+* Operators
+
+</td>
+<td>
+
+### 🟡 Control Flow
+
+* Conditional Statements
+* Loops
+* Pattern Programs
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🔵 Data Structures
+
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+
+</td>
+<td>
+
+### 🟣 Advanced Concepts
+
+* Functions
+* File Handling
+* Object-Oriented Programming
+* Exception Handling
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Repository Structure
+
+```text
+python-learning/
+│
+├── 📁 01-basics
+├── 📁 02-variables-and-data-types
+├── 📁 03-operators
+├── 📁 04-conditional-statements
+├── 📁 05-loops
+├── 📁 06-functions
+├── 📁 07-strings
+├── 📁 08-lists
+├── 📁 09-tuples
+├── 📁 10-sets
+├── 📁 11-dictionaries
+├── 📁 12-file-handling
+├── 📁 13-exception-handling
+├── 📁 14-oops
+│
+├── 📁 practice-programs
+└── 📁 mini-projects
+```
+
+---
+
+## 🎯 My Goals
+
+* 🐍 Build a strong foundation in Python
+* 🧠 Improve problem-solving skills
+* 💻 Practice coding consistently
+* 🚀 Build exciting Python projects
+* 📈 Track my learning progress
+
+---
+
+## 📊 My Learning Journey
+
+```text
+Python Basics        ██████████  Learning 🚀
+Problem Solving      ███████░░░  In Progress 🌱
+Advanced Python      ███░░░░░░░  Coming Soon 🔜
+Projects             ██░░░░░░░░  Coming Soon 💡
+```
+
+---
+
+## 🌟 Let's Connect
+
+⭐ If you find this repository helpful, feel free to **star the repository**!
+
+### 💻 Happy Coding!
+
+**✨ Learn • Practice • Build • Repeat ✨**
